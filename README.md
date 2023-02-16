@@ -1,1 +1,1 @@
-# Corona-counts-with-desktop-notifications
+This code scrapes the Pakistan government website http://covid.pastic.gov.pk/ for corona virus counts overall and in the varios provinces. And give the notifications for the selected provinves as desktop notifications.
